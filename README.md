@@ -1,2 +1,2 @@
 # CsTeamTools
-My Collection of fun litte Python prodjects 
+My Collection of CS Python tools, in One toolbox 
